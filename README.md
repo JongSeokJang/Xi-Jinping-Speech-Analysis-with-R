@@ -10,3 +10,6 @@
 * topic modeling
   * LDA(Latent Drichlet Allocation)
 * keyword extraction
+
+
+### 8.9.2017
