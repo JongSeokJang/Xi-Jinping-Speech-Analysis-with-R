@@ -1,2 +1,5 @@
 # Speech-Analysis-with-R
-automated analysis-classification, clustering, topic modeling, keyword extraction
+* classification
+* clustering
+* topic modeling
+* keyword extraction
